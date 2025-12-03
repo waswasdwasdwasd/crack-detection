@@ -36,3 +36,11 @@ crack-detection-project/
 ├── README.md # This file
 └── docs/
 └── research_report.pdf # Full report
+
+## Trained Model
+
+The trained model file (`best_crack_model.pth`, 43MB) is not included due to size limits.
+
+To use this project:
+- **Option A:** Train your own model (takes ~18 minutes with the code)
+- **Option B:** Contact me for the trained model file
