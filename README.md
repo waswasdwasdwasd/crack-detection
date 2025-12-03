@@ -37,10 +37,11 @@ crack-detection-project/
 └── docs/
 └── research_report.pdf # Full report
 
-## Trained Model
+## Download Trained Model
 
-The trained model file (`best_crack_model.pth`, 43MB) is not included due to size limits.
+The trained model is available in the releases:
 
-To use this project:
-- **Option A:** Train your own model (takes ~18 minutes with the code)
-- **Option B:** Contact me for the trained model file
+📥 **[Download best_crack_model.pth (43 MB)](https://github.com/waswasdwasdwasd/crack-detection/releases/download/v1.0/best_crack_model.pth)**
+
+Place the downloaded file in the same folder as `crack_detection.py` before running.
+
